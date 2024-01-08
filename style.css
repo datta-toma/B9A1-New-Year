@@ -195,7 +195,7 @@ button{
 }
 .img2{
  margin: 5px;
- padding-right: 5%;
+ padding-right: 3px;
 }
 .img3{
     padding-left: 6.5% ;
@@ -240,7 +240,7 @@ button{
 
 #mail{
     background-color: rgb(249, 241, 240);
-    margin-top: 80px;
+    margin-top: 300px;
     margin-left: 500px;
     margin-right: 500px;
     height: 550px;
