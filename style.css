@@ -1,0 +1,338 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   box-sizing: border-box;
+}
+body{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+/* header work */
+
+.bannar{
+    background-image: url('./images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 400px;
+    width: auto;
+    height: 700px;
+}
+.bannar-head{
+    text-align: center;
+    color: black;
+}
+.head {
+    padding-top: 250px;
+    font-size: 30px;
+}
+.pre{
+    font-size: 70px;
+}
+/* categoeies  */
+.all{
+    text-align: center;
+    padding-top: 100px;
+}
+.off{
+    color: blueviolet;
+    font-size: 80px;
+}
+.title{
+    font-size: 21px;
+    color:blueviolet;
+    padding-top: 30px;
+}
+.head-title{
+    font-size: 48px;
+    padding-top: 10px;
+}
+
+/* min night party */
+
+.welcome{
+    background-image:url('./images/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 400px;
+    width: auto;
+    height: 800px;
+    
+}
+
+.section-contan{
+    text-align: left;
+    color: whitesmoke;
+    padding-left: 700px;
+    padding-bottom: 50px;
+    padding-top: 120px;
+}
+.party{
+    font-size: 60px;
+}
+.short{
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.contan{
+    display: flex;
+    height: 450px;
+    padding-top: 80px;
+    padding-left: 20px;
+ 
+}
+button{
+    border-radius: 5px;
+    background: red;
+    border: 0;
+    font-size: 20px;
+    padding: 15px 35px;
+    color:whitesmoke;
+    margin-top: 60px;
+}
+
+/* place/date/time */
+
+.ads{
+    background-color: rgb(249, 241, 240);
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    height: 400px;
+}
+.color{
+    color: red;
+}
+.con{
+    padding-top: 20px;
+}
+.ads p{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+}
+.btn{
+    border-radius: 5px;
+    background: red;
+    border: 0;
+    font-size: 20px;
+    color:whitesmoke;
+    padding: 15px 35px;
+    margin-left: 600px;
+    margin-top:60px;
+}
+
+/* best offer */
+
+.new-container{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    margin: 200px;
+}
+.new{
+    padding-top: 100px;
+  
+}
+.year{
+    font-size: 25px;
+    color: blueviolet;
+}
+.new-title{
+    font-size: 50px;
+    padding-top: 20px;
+}
+.new-description{
+    font-size: 20px;
+    padding-top: 10px;
+}
+ .new2{
+    padding-top: 100px;
+    padding-left: 15px;
+ }
+ .new-title1{
+    font-size: 40px;
+    color: blueviolet;
+ }
+ .new-description1{
+    font-size: 20px;
+    padding-top: 20px;
+ }
+ .im{
+    padding-top: 40px;
+    padding-left: 50px;
+ }
+
+ /* holidays sale */
+
+.sale{
+    padding-top: 30px;
+}
+.fun{
+    text-align: center;
+}
+.fun1{
+    font-size: 30px;
+}
+.fun2{
+    font-size:80px ;
+    padding-top: 20px;
+}
+.fun3{
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+.img{
+    margin: 100px;
+    display: inline;
+}
+
+.img1{
+    padding-left: 550px;
+    padding-bottom: 10%;
+    
+}
+.img2{
+ margin: 5px;
+ padding-right: 5%;
+}
+.img3{
+    padding-left: 6.5% ;
+    padding-top: 200px;
+    display: flex;
+    gap: 30px;
+}
+.img4{
+    font-size: 15px;
+    padding-bottom: 30px;
+}
+
+/* best gifts */
+
+.port{
+   padding-left: 550px;
+}
+.port1{
+    font-size:25px ;
+    color: blueviolet;
+}
+.port2{
+    font-size: 50px;
+    padding-top: 20px;
+}
+.port3{
+    font-size: 20px;
+    padding-top: 30px;
+}
+.pic{
+    display: flex;
+    gap:20px;
+    padding-top: 40px;
+}
+.pic1{
+    display: flex;
+    gap:20px;
+    padding-top: 20px;
+}
+
+/* subscribe news latter */
+
+#mail{
+    background-color: rgb(249, 241, 240);
+    margin-top: 80px;
+    margin-left: 500px;
+    margin-right: 500px;
+    height: 550px;
+}
+.mail1{
+    padding-left: 600px;
+    padding-top: 100px;
+}
+.news{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 20px;
+}
+.news1{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+/* email work */
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    padding-top: 10px;
+    
+}
+.contact input[type='email']{
+    padding: 18px 35px;
+    color:black;
+    border-radius: 5px;
+    border: 0;
+
+}
+
+.b-t1{
+    display: inline;
+    margin-bottom: 10px;
+    padding: 18px 15px;
+    border-radius: 5px;
+    background:red;
+    border: 0;
+    padding-left: 300px;
+    padding-top: 10px;
+}
+
+/* footer work */
+
+.foot{
+    background-color: rgb(35, 33, 33);
+    margin-top: 90px;
+    margin-left: 500px;
+    margin-right: 500px;
+    height: 650px;
+}
+.foot1{
+   color: whitesmoke;
+   font-size: 26px;
+   float: left;
+   padding-left: 100px;
+   padding-top: 150px;
+   
+}
+.foot2{
+    color: whitesmoke;
+    font-size: 25px;
+    float: right;
+    padding-right: 100px;
+    padding-top: 150px;
+}
+.social-links{
+    padding-top: 400px;
+    gap: 100px;
+    text-align: center;
+}
+.social-links a{
+    margin-right:25px ;
+}
+.res p{
+    color: whitesmoke;
+   font-size: 25px;
+   float: left;
+   padding-left: 100px;
+   padding-top: 80px;
+}
+.un{
+    float: right;
+    margin-top: 80px;
+    margin-right: 100px;
+    border-radius: 5px;
+    background-color: black;
+    color: whitesmoke;
+}
