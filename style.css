@@ -241,12 +241,12 @@ button{
 #mail{
     background-color: rgb(249, 241, 240);
     margin-top: 100px;
-    margin-left: 100px;
+    margin-left: 500px;
     margin-right: 500px;
     height: 550px;
 }
 .mail1{
-    padding-left: 600px;
+    padding-left: 400px;
     padding-top: 100px;
 }
 .news{
