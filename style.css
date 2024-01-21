@@ -182,30 +182,41 @@ button{
     font-size: 20px;
     padding-top: 30px;
 }
-
-.img{
+.discount{
     margin: 50px;
-    display: inline;
+}
+.img-contain{
+    margin: 100px;
+    display: flex;
+    position: relative;
 }
 
 .img1{
-    padding-left: 400px;
+    padding-left: 800px;
     padding-bottom: 10%;
-    
+}
+.img{
+    position: relative;
+    padding-left: 700px;
 }
 .img2{
- margin: 5px;
- padding-right: 1px;
+ /* margin: 5px; */
+ padding-left: 100px;
+ position: absolute;
 }
 .img3{
-    padding-left: 6.5% ;
-    padding-top: 200px;
+    padding-left: 940px ;
+    padding-bottom: 20px;
+    /* padding-top: 200px;
     display: flex;
-    gap: 30px;
+    gap: 30px; */
+    position: absolute;
 }
 .img4{
     font-size: 15px;
     padding-bottom: 30px;
+    margin-left: 150px;
+    
 }
 
 /* best gifts */
@@ -230,6 +241,7 @@ button{
     gap:20px;
     padding-top: 60px;
 }
+
 .pic1{
     display: flex;
     gap:20px;
